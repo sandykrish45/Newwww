@@ -1,0 +1,18 @@
+body{
+  background:#111;
+  color:white;
+  text-align:center;
+  font-family:sans-serif;
+}
+button{
+  padding:15px 30px;
+  border-radius:20px;
+  border:none;
+  background:pink;
+}
+.hidden{display:none;}
+.love-photo{
+  width:300px;
+  border-radius:20px;
+  margin-top:20px;
+}
